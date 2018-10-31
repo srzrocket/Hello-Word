@@ -21,4 +21,6 @@ http://www.runoob.com/vue2/vue-computed.html  vue.js 菜鸟教程
 
 
 AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式
-https://blog.csdn.net/mhmyqn/article/details/25561535
+https://blog.csdn.net/mhmyqn/article/details/25561535   参考项目地址
+
+
